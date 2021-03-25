@@ -207,5 +207,6 @@ create: create [ARG] [PARAM 1] [PARAM 2] ...
 
 ## Authors
 
-* Ricardo Arquímedes Castro, [RicardoArquimedes](https://github.com/RicardoArquimedes) 
-* Andrés Ariza, [aarizat](https://github.com/aarizat) 
+* **Ricardo Arquímedes Castro** | [Twitter](https://twitter.com/arquimedescq) | [Github](https://github.com/RicardoArquimedes) |
+* **Andrés Ariza** | [Twitter](https://twitter.com/aarizatr) | [Github](https://github.com/aarizat) |
+
